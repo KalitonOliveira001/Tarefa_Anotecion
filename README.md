@@ -34,5 +34,5 @@ Isso significa que:
 `@Retention(RetentionPolicy.RUNTIME)`** → a anotação pode ser lida enquanto o programa roda.  
 `String value()`** → define um campo chamado `value` que vai guardar o nome da tabela.
 
-✍️ Autor: Káliton Oliveira  
+ Autor: Káliton Oliveira  
 Data:10/08/2025
